@@ -15,8 +15,6 @@ PostNet: https://zenodo.org/record/3763412, put it into ./PostNet/Checkpoints
 4.Postprocessing: further improving preprocessed CBCT
 ### Results
 ![image](https://github.com/LianyingChao/FusionLowDoseCBCT/blob/master/figures/3.png)
-![image](https://github.com/LianyingChao/FusionLowDoseCBCT/blob/master/figures/5.png)
-![image](https://github.com/LianyingChao/FusionLowDoseCBCT/blob/master/figures/6.png)
 ### Contact
 chaolianying@hust.edu.cn
 
