@@ -14,7 +14,7 @@ Walnuts #1-21: https://zenodo.org/record/3763412;  put the noisy and sparse-view
 
 ### Load the trained model of JDINet and PostNet
 
-JDINet/denoising and interpolation module: https://pan.baidu.com/s/1pjlDlRAYweXKySwrAfKrXg?pwd=nnix, put them into ./JDINet/saved_model
+JDINet: https://pan.baidu.com/s/1pjlDlRAYweXKySwrAfKrXg?pwd=nnix, put them into ./JDINet/saved_model
 
 PostNet: https://pan.baidu.com/s/1s34dNINobnIWi9cEBSjg0A?pwd=2hbrr, put it into ./PostNet/Checkpoints
 
