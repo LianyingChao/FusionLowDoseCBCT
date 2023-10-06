@@ -10,9 +10,13 @@ JDINet/denoising: https://zenodo.org/record/3763412, JDINet/interpolation: https
 PostNet: https://zenodo.org/record/3763412, put it into ./PostNet/Checkpoints
 ### Dual-processing for improving the quality of CBCT, e.g, 22-fold low dose
 1.11-fold low-intensity and 2-fold sparse-view projs (P1,P3,P5,...,P499) are prepared to ./ld_proj
+
 2.Preprocessing: denoise and interpolate to noise-free and full-view projs (python ./JDINet/test_denoi.py & python ./JDINet/test_inter.py)
+
 3.Reconstruction to preprocessed CBCT: python ./fdk.py
+
 4.Postprocessing: further improving preprocessed CBCT
+
 ### Results
 ![image](https://github.com/LianyingChao/FusionLowDoseCBCT/blob/master/figures/2.png)
 ### Contact
