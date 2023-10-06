@@ -14,7 +14,7 @@ PostNet: https://zenodo.org/record/3763412, put it into ./PostNet/Checkpoints
 3.Reconstruction to preprocessed CBCT: python ./fdk.py
 4.Postprocessing: further improving preprocessed CBCT
 ### Results
-![image](https://github.com/LianyingChao/FusionLowDoseCBCT/blob/master/figures/3.png)
+![image](https://github.com/LianyingChao/FusionLowDoseCBCT/blob/master/figures/2.png)
 ### Contact
 chaolianying@hust.edu.cn
 
