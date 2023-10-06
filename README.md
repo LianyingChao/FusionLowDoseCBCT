@@ -9,7 +9,7 @@ Pytorch = 1.9.0 Tensorflow=1.15 Astra=1.9.9
 ### Load noisy data
 Walnuts #1-21: https://zenodo.org/record/3763412;  put the noisy and sparse-view projs into ./ld_proj
 ### Load the trained model of JDINet and PostNet
-JDINet/denoising and interpolation module: https://pan.baidu.com/s/1pjlDlRAYweXKySwrAfKrXg?pwd=nnix(nnix), put them into ./JDINet/saved_model
+JDINet/denoising and interpolation module: https://pan.baidu.com/s/1pjlDlRAYweXKySwrAfKrXg?pwd=nnix Extarcting code: 2hbr, put them into ./JDINet/saved_model
 
 PostNet: https://pan.baidu.com/s/1s34dNINobnIWi9cEBSjg0A?pwd=2hbr Extarcting code: 2hbr, put it into ./PostNet/Checkpoints
 
