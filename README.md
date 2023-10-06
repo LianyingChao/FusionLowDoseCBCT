@@ -1,5 +1,6 @@
 # Joint denoising and interpolation network for fusion low-dose CBCT
 Pytorch = 1.9.0 Tensorflow=1.15 Astra=1.9.9
+![image](https://github.com/LianyingChao/FusionLowDoseCBCT/blob/master/figures/1.png)
 # Load noisy data
 Walnuts #1-21: https://zenodo.org/record/3763412;  put the noisy and sparse-view projs into ./ld_proj
 # Load the trained model of JDINet and PostNet
